@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MusicPlayer</string>
+    <string name="tab_text_1">Songs</string>
+    <string name="tab_text_2">Albums</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="search">Search</string>
+    <string name="add_favourites">Add Favourites</string>
+    <string name="add_to_playlist">Add to Playlist</string>
+</resources>
